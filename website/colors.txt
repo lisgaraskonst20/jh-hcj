@@ -1,0 +1,5 @@
+zimablue : 47BDDF
+steelblue : 4682B4
+indianred : CD5C5C
+seagreen : 2E8B57
+darkgreen : 006400
