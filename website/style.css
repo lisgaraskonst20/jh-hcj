@@ -1,6 +1,6 @@
 body {
-margin: 5;
-padding: 0;
+margin: 5px;
+padding: 10px;
 background-color: #FFFFE0;
 text-align: center; 
 font-family: calibri, sans-serif;}
@@ -8,38 +8,40 @@ h1 {
 margin: 2px 0px 50px 0px;
 font-weight: bold;
 display: inline;
-text-decoration: underline;}
+text-decoration: underline double;}
 section {
 background-color: #47BDDF;
 margin: 50px 0px;
 padding: 1px;
 border: 10px double #000000;}
 p {
+margin: 10px 0px;
 font-size: 20px; 
 font-weight: bold;}
+ul {
+display: inline;}
+li {
+list-style: none;
+margin: 0px 0px 5px 0px;}
 a {
 display: block;
 color: #FFFFFF;
-width: 200px;
+width: 18.5%;
 padding: 5px;
-height: auto;
 margin-bottom: 5px;
 text-decoration: none;
-border: 2px solid #000000;}
-a:link, a:visited {
-background-color: #4682B4;}
+border: 2px solid #000000;
+background-color: #4682B4}
 a:hover {
-background-color: #CD5C5C;
+background-color: #DC143C;
 cursor: pointer;}
 a:active {
 color: #000000;
 background-color: #ffffff;}
-ul {
-display: inline;
-}
-li {
-list-style: none;}
+hr {
+clear: both;}
 footer {
+clear: both;
 color: #000000;
 font-size: 0.75em; 
 float: right;}
