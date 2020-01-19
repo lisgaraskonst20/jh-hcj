@@ -42,4 +42,4 @@ clear: right;}
 {.HS, .ME {width: 50%;} .DR {width: 100%;} }
 /* mobile */
 @media (max-width: 767px)
-{.HS, .ME, .DR {width: 100%} }
+{.HS, .ME, .DR {width: 100%;} }
